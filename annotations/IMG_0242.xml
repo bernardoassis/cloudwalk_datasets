@@ -1,0 +1,26 @@
+<annotation>
+	<folder>imgs</folder>
+	<filename>IMG_0242.JPG</filename>
+	<path>/Users/bernardocarvalho/Desktop/imgs/IMG_0242.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>960</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>freis</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>167</xmin>
+			<ymin>359</ymin>
+			<xmax>963</xmax>
+			<ymax>672</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>imgs 2</folder>
+	<filename>20190502_132648.jpg</filename>
+	<path>/Users/bernardocarvalho/Desktop/imgs 2/20190502_132648.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>960</width>
+		<height>1280</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>grandvision</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>6</xmin>
+			<ymin>324</ymin>
+			<xmax>958</xmax>
+			<ymax>572</ymax>
+		</bndbox>
+	</object>
+</annotation>

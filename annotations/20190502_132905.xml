@@ -1,0 +1,26 @@
+<annotation>
+	<folder>imgs 2</folder>
+	<filename>20190502_132905.jpg</filename>
+	<path>/Users/bernardocarvalho/Desktop/imgs 2/20190502_132905.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>960</width>
+		<height>1280</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>pontofrio</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>146</xmin>
+			<ymin>163</ymin>
+			<xmax>814</xmax>
+			<ymax>381</ymax>
+		</bndbox>
+	</object>
+</annotation>

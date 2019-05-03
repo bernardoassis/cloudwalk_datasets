@@ -1,0 +1,26 @@
+<annotation>
+	<folder>imgs 2</folder>
+	<filename>20190502_133220.jpg</filename>
+	<path>/Users/bernardocarvalho/Desktop/imgs 2/20190502_133220.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>960</width>
+		<height>1280</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>lindt</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>289</xmin>
+			<ymin>239</ymin>
+			<xmax>639</xmax>
+			<ymax>422</ymax>
+		</bndbox>
+	</object>
+</annotation>

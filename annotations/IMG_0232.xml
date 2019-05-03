@@ -1,0 +1,26 @@
+<annotation>
+	<folder>imgs 2</folder>
+	<filename>IMG_0232.jpg</filename>
+	<path>/Users/bernardocarvalho/Desktop/imgs 2/IMG_0232.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>960</width>
+		<height>1280</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>igualdafeira</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>268</xmin>
+			<ymin>536</ymin>
+			<xmax>740</xmax>
+			<ymax>981</ymax>
+		</bndbox>
+	</object>
+</annotation>

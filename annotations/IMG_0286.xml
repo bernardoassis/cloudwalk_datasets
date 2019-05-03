@@ -1,0 +1,26 @@
+<annotation>
+	<folder>imgs 2</folder>
+	<filename>IMG_0286.jpg</filename>
+	<path>/Users/bernardocarvalho/Desktop/imgs 2/IMG_0286.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>960</width>
+		<height>1280</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>dia</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>219</xmin>
+			<ymin>384</ymin>
+			<xmax>662</xmax>
+			<ymax>763</ymax>
+		</bndbox>
+	</object>
+</annotation>

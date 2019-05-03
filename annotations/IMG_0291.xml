@@ -1,0 +1,26 @@
+<annotation>
+	<folder>imgs 2</folder>
+	<filename>IMG_0291.jpg</filename>
+	<path>/Users/bernardocarvalho/Desktop/imgs 2/IMG_0291.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>960</width>
+		<height>1280</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>eutueles</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>324</xmin>
+			<ymin>522</ymin>
+			<xmax>733</xmax>
+			<ymax>709</ymax>
+		</bndbox>
+	</object>
+</annotation>
